@@ -24,7 +24,7 @@ TOKEN = ''
 parser = argparse.ArgumentParser(description='Sync ~/Downloads to Dropbox')
 parser.add_argument('folder', nargs='?', default='trends_app',
                     help='Folder name in your Dropbox')
-parser.add_argument('rootdir', nargs='?', default='../data/trends',
+parser.add_argument('rootdir', nargs='?', default='../trends',
                     help='Local directory to upload')
 parser.add_argument('--token', default=TOKEN,
                     help='Access token '
