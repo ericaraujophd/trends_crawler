@@ -40,7 +40,8 @@ The contab used for this work collects the trends every half an hour, as shown b
 ```
 
 
-https://stackoverflow.com/questions/12534135/crontab-not-executing-a-python-script
+[comment]: <> (https://stackoverflow.com/questions/12534135/crontab-not-executing-a-python-script)
+[comment]: <> (https://github.com/dropbox/dropbox-sdk-python/blob/master/example/updown.py)
 
 
-https://github.com/dropbox/dropbox-sdk-python/blob/master/example/updown.py
+
